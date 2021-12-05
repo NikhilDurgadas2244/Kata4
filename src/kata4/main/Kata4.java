@@ -21,3 +21,4 @@ public class Kata4 {
         histogramDisplay.execute();
     }
 }
+ 
